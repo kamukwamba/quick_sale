@@ -1,0 +1,8 @@
+{
+    admin_logo: <a href="https://www.flaticon.com/free-icons/admin" title="admin icons">Admin icons created by Freepik - Flaticon</a>,
+    store_logo: <a href="https://www.flaticon.com/free-icons/store-front" title="store front icons">Store front icons created by Freepik - Flaticon</a>
+    store_logo_inner: <a href="https://www.flaticon.com/free-icons/cash-register" title="cash register icons">Cash register icons created by Earthz Stocker - Flaticon</a>
+    log_back: <a href="https://www.flaticon.com/free-icons/logout" title="logout icons">Logout icons created by IYAHICON - Flaticon</a>
+    logo_back_2 : <a href="https://www.flaticon.com/free-icons/logout" title="logout icons">Logout icons created by Dewi Sari - Flaticon</a>
+
+}
